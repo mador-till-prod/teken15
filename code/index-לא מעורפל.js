@@ -113,7 +113,7 @@ let objMedInfo = {
     "Cephalexin": {
         medType: "antibiotics",
         type : "withMechanism",
-        pic : "antibiotics/Ceforal", 
+        pic : "antibiotics/ceforal", 
         genericName : "Cephalexin.",
         commercialName : "Ceforal, Cefovit.",
         indication : "זיהומים בעור.",
