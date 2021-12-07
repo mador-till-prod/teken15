@@ -7,7 +7,7 @@ let objMedInfo = {
     "Loratadine-Desloratadine": {
         medType: "antiallergic",
         type : "withoutMechanism",
-        pic : "antiallergic/aerius", 
+        pic : "antiallergic/Desloratadine", 
         genericName : "Loratadine-Desloratadine.",
         commercialName : "Allergyx.<br>Aerius.",
         indication : "<ol class=list><li>נזלת אלרגית.</li><li>אורטיקריה (פריחה בצורת משטחים אדומים בולטים בצורות שונות, מלווה בגרד).</li></ol>",
