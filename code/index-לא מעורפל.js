@@ -47,7 +47,7 @@ let objMedInfo = {
         indication : "נזלת (אלרגית ולא אלרגית).",
         contraindication : "אלרגיה לתרופה.",
         sideEffect : "אין.",
-        patientGuidelines : "<ol class=list><li>להימנע מריסוס לעיניים.</li><li>לנער לפני שימוש.</li></ol>",
+        patientGuidelines : "<ol class=list><li>להימנע מריסוס לעיניים.</li><li>לנער לפני שימוש.</li><li>יש להקפיד על שימוש באופן רציף וקבוע.</li></ol>",
     },
     "Betamethasone-משחה": {
         medType: "antiallergic",
@@ -74,14 +74,15 @@ let objMedInfo = {
     },
     "Oxymetazoline-nasal": {
         medType: "antiallergic",
-        type : "withoutMechanism",
+        type : "withMechanism",
         pic : "antiallergic/otrivine", 
         genericName : "Oxymetazoline.",
         commercialName : "Sinulen.",
         indication : "גודש באף.",
         contraindication : "<ol class=list><li>אלרגיה לתרופה.</li><li>אחרי ניתוח באזור האף/פה/לוע.</li><li>יתר לחץ דם ומחלות לב/ כלי דם אחרות (התרופה גורמת לכיווץ כלי דם ולכן עלולה לגרום לעלייה בלחץ דם).</li></ol>",
-        sideEffect : "<ol class=list><li>יובש/צריבה בריריות האף והלוע.</li><li>החמרת הגודש באף.</li><li>נדיר – עלייה בלחץ דם ודפיקות לב (התרופה גורמת לכיווץ כלי דם ולכן עלולה לגרום לעלייה בלחץ דם).</li></ol>",
-        patientGuidelines : "<ol class=list><li>עד 2 טיפות לכל נחיר, 3 פעמים ביום, במידת הצורך.</li><li>אין להשתמש יותר מ 3 ימים ברצף (עלולה להיווצר תלות פיזיולוגית בתרופה).</li></ol>",
+        sideEffect : "<ol class=list><li>יובש/צריבה בריריות האף והלוע.</li><li>נדיר – עלייה בלחץ דם ודפיקות לב (התרופה גורמת לכיווץ כלי דם ולכן עלולה לגרום לעלייה בלחץ דם).</li></ol>",
+        patientGuidelines : "<ol class=list><li>עד 2 טיפות לכל נחיר, 3 פעמים ביום, במידת הצורך.</li><li>אין להשתמש יותר מ 3 ימים ברצף (עלולה להיווצר תלות פיזיולוגית בתרופה).</li><li>טרם השימוש, לקנח את האף בעדינות</li></ol>",
+        mechanismOfAction : "כיווץ נימי דם באף להורדת גודש.",
     },
     // antibiotics-----------------------------------------------------------------------------------------------------------------------
     // אנטיביוטיקה
