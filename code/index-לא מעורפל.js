@@ -149,7 +149,7 @@ let objMedInfo = {
     "Roxythromycin-(TAB)": {
         medType: "antibiotics",
         type : "withMechanism",
-        pic : "antibiotics/klaridex", 
+        pic : "antibiotics/rulid", 
         genericName : "Roxythromycin (TAB).",
         commercialName : "Rulid.",
         indication : "מגוון זיהומים חיידקיים",
@@ -161,7 +161,7 @@ let objMedInfo = {
     "Erythromycin": {
         medType: "antibiotics",
         type : "withMechanism",
-        pic : "antibiotics/klaridex", 
+        pic : "antibiotics/acnetrim", 
         genericName : "Erythromycin.",
         commercialName : "Acnetrim, Acnemycin.",
         indication : "מגוון זיהומים חיידקיים",
