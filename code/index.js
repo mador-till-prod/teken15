@@ -140,7 +140,7 @@ let objMedInfo = {
         pic : "antibiotics/klaridex", 
         genericName : "Clarithromycin (TAB).",
         commercialName : "Klarin, Klaridex.",
-        indication : "<ol class=list><li>ניתנת כחלק מטיפול בהליקובקטר.</li><li>ניתנת לזיהומים בדרכי הנשימה.</li></ol>"",
+        indication : "<ol class=list><li>ניתנת כחלק מטיפול בהליקובקטר.</li><li>ניתנת לזיהומים בדרכי הנשימה.</li></ol>",
         contraindication : "<ol class=list><li>אלרגיה לתרופה.</li><li>תפקודי כבד לקויים בעבר עקב תרופה מהמשפחה.</li></ol>",
         sideEffect : "תגובה במערכת העיכול.",
         patientGuidelines : "<ol class=list><li>לא להפסיק את הטיפול באמצע, אלא לסיים את כולו, גם אם מרגישים טוב יותר.</li><li>לפנות לבדיקה רפואית במקרה של שלשול ממושך (גם בשבועות שאחרי סיום הטיפול) – עלול להעיד על זיהום מסויים במעי הגס הדורש טיפול (CDAD).</li><li>תמיסה Acnetrim/Acnemycin מיועדת לשימוש חיצוני בלבד, וטרם המריחה יש לשטוף פנים עם מים וסבון ולהמתין לייבוש.</li><li>אין צורך להצמיד את הטיפול לאוכל.</li><li>להגביל אלכוהול</li><li>יש לשתף את הרופא/ה בכל טיפול רפואי שניתן במקביל</li></ol>",
