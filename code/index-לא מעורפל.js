@@ -89,7 +89,7 @@ let objMedInfo = {
     "Penicillin-G": {
         medType: "antibiotics",
         type : "withMechanism",
-        pic : "antibiotics/Penicillin", 
+        pic : "antibiotics/penicillin", 
         genericName : "Penicillins VK.",
         commercialName : "Rafapen, Pen-Rafa.",
         indication : "דלקת גרון.",
