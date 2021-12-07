@@ -21,7 +21,7 @@ let objMedInfo = {
         pic : "antiallergic/optilast", 
         genericName : "Azelastine.",
         commercialName : "Optilast.<br>Astelin.",
-        indication : "<ol class=list><li>נזלת אלרגית.</li><li>דלקת עיניים אלרגית.</li><li>Vasomotor Rhinitis – נזלת כתוצאה מהרחבת כלי דם בריריות האף.</li></ol>",
+        indication : "דלקת עיניים אלרגית.",
         contraindication : "אלרגיה לתרופה.",
         sideEffect : "<ol class=list><li>ישנוניות (בשימוש דרך האף)</li><li>התקף אסטמה (בשימוש דרך האף, נדיר).</li></ol>",
         patientGuidelines : "<ol class=list><li>לפני שימוש בטיפות עיניים יש להקפיד על שטיפת ידיים.</li><li>בזמן שימוש בטיפות עיניים אין לגעת בפיית הבקבוקון בעין.</li><li>אין לבצע פעולות הדורשות ערנות לאחר שימוש בתרופה דרך האף.</li></ol>",
