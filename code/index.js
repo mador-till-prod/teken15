@@ -213,7 +213,7 @@ let objMedInfo = {
         pic : "antibiotics/diseptyl", 
         genericName : "Sulfamethoxazole-Trimethoprim.",
         commercialName : "Resprim.<br>Diseptyl.",
-        indication : "מגוון זיהומים חיידקיים.",
+        indication : "זיהומים בדרכי השתן.",
         contraindication : "<ol class=list><li>אלרגיה לתרופה.</li><li>אי ספיקת כליות.</li><li>פגיעה בתפקודי כבד.</li><li>אנמיה כתוצאה ממחסור בחומצה פולית.</li></ol>",
         sideEffect : "<ol class=list><li>כאבי בטן, שלשולים.</li><li>פנקראטיטיס – דלקת בלבלב.</li><li>פגיעה כלייתית.</li><li>פגיעה כבדית שמובילה לצהבת.</li><li>דיכוי יצירת תאי דם במח עצם.</li><li>תגובות עוריות כמו פריחה.</li></ol>",
         patientGuidelines : "<ol class=list><li>לא להפסיק את הטיפול באמצע, אלא לסיים את כולו, גם אם מרגישים טוב יותר.</li><li>שתיית מים מרובה.</li><li>לצמצם חשיפה לשמש ולהשתמש בקרם הגנה (התרופה עלולה להגביר את הרגישות של העור לשמש).</li><li>לפנות לבדיקה רפואית במידה ויש פריחה. היא עלולה להעיד על התחלה של אנאפילקסיס או תגובה מסוכנת אחרת לטיפול.</li></ol>",
