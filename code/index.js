@@ -457,9 +457,9 @@ let objMedInfo = {
         genericName : "Omeprazole.",
         commercialName : "Omepra.<br>Omepradex.",
         indication : "<ol class=list><li>צרבת.</li><li>דלקת בוושט.</li><li>כיב בקיבה/תריסריון.</li><li>מחלות אחרות שמתבטאות בהפרשת יתר של חומצה בקיבה .</li><li>זיהום חיידקתי בקיבה על ידי Helicobacter Pylori.</li></ol>",
-        contraindication : "אלרגיה לתרופה.",
-        sideEffect : "<ol class=list><li>חוסר בויטמין B12 ( חלק מהחומרים המופרשים מדופן הקיבה מסייעים בספיגת B12, והתרופה מעכבת גם אותם).</li><li>חוסר במגנזיום והחלשות עצמות.</li></ol>",
-        patientGuidelines : "<ol class=list><li>לא ללעוס או לרסק טבליות.</li><li>לקחת 30-60 דקות לפני ארוחה, על בטן ריקה.</li></ol>",
+        contraindication : "<ol class=list><li>טיפול תרופתי נגד HIV</li><li>בעיות בליעה, הקאה או צואה שמכילה דם</li></ol>",
+        sideEffect : "<ol class=list><li>עצירות.</li><li>שלשול.</li><li>בחילה.</li><li>כאבי בטן.</li><li>הקאה.</li><li>גזים.</li></ol>",
+        patientGuidelines : "<ol class=list><li>לא ללעוס או לרסק טבליות.</li><li>לקחת 30-60 דקות לפני ארוחה, על בטן ריקה.</li><li>בשימוש ממושך נדרש לעקוב אחרי רמות מגנזיום ורמות B12</li></ol>",
         mechanismOfAction : "עיכוב הפרשת חומצה מתאים בדופן הקיבה.",
     },
     "Calcium-Magnesium-Carbonate": {
@@ -481,10 +481,10 @@ let objMedInfo = {
         pic : "digestion/pramin", 
         genericName : "Metoclopramide.",
         commercialName : "Pramin.",
-        indication : "<ol class=list><li>צרבת .</li><li>טיפול ומניעה לבחילות והקאות .</li><li>ריקון קיבה איטי מדי (לרוב קורה בגלל פגיעה עצבית).</li></ol>",
+        indication : "<ol class=list><li>החזר קיבתי ושטי .</li><li>טיפול ומניעה לבחילות והקאות .</li><li>ריקון קיבה איטי מדי (לרוב קורה בגלל פגיעה עצבית).</li></ol>",
         contraindication : "<ol class=list><li>אלרגיה לתרופה.</li><li>פרכוסים ו/או תנועות לא רצוניות של שרירי הפנים .</li><li>פיאוכרומוציטומה – גידול בבלוטת יותרת הכליה .</li><li>דימום או חסימה במערכת העיכול.</li></ol>",
-        sideEffect : "<ol class=list><li>פרכוסים ו/או תנועות לא רצוניות של שרירי הפנים .</li><li>הפרעות בקצב לב .</li><li>דיכוי ייצור תאי דם במח העצם.</li></ol>",
-        patientGuidelines : "<ol class=list><li>יש לקחת חצי שעה לפני ארוחה על בטן ריקה ו/או לפני השינה .</li><li>מומלץ שלא לבצע פעולות הדורשות ערנות שעתיים אחרי נטילת התרופה (התרופה עלולה לגרום לישנוניות ותופעות נוירולוגיות אחרות).</li><li>אין לשתות אלכוהול במקביל לטיפול.</li></ol>",
+        sideEffect : "<ol class=list><li>פרכוסים ו/או תנועות לא רצוניות של שרירי הפנים .</li><li>הפרעות בקצב לב .</li><li>דיכוי ייצור תאי דם במח העצם.</li><li>לא נפוצות - תנועות לא רצוניות (לא רק של הפנים).</li></ol>",
+        patientGuidelines : "<ol class=list><li>יש לקחת חצי שעה לפני ארוחה על בטן ריקה ו/או לפני השינה .</li><li>מומלץ שלא לבצע פעולות הדורשות ערנות שעתיים אחרי נטילת התרופה (התרופה עלולה לגרום לישנוניות ותופעות נוירולוגיות אחרות).</li><li>אין לשתות אלכוהול במקביל לטיפול.</li><li>אין לשתות אלכוהול.</li><li>אין להשתמש בתרופה זו לתקופה ארוכה</li></ol>",
     },
     // משלשלים
     "Bisacodyl": {
@@ -494,9 +494,9 @@ let objMedInfo = {
         genericName : "Bisacodyl.",
         commercialName : "Laxadin.",
         indication : "<ol class=list><li>עצירות.</li><li>ריקון מעי לפני בדיקות, ניתוחים וכו...</li></ol>",
-        contraindication : "<ol class=list><li>אלרגיה לתרופה.</li><li>דלקות במעי לרבות אפנדציטיס (דלקת בתוספתן) ודלקת במעי הגס .</li><li>דימום ממערכת העיכול.</li><li>חסימת מעיים .</li><li>בחילות/הקאות.</li></ol>",
+        contraindication : "<ol class=list><li>אלרגיה לתרופה.</li><li>דימום ממערכת העיכול.</li><li>חסימת מעיים .</li><li>בחילות/הקאות.</li><li>כאבי בטן חזקים</li><li>כאבי בטן מלווים בהקאות, בחילות או דלקת במעי.</li></ol>",
         sideEffect : "<ol class=list><li>שלשולים .</li><li>כאבי בטן.</li></ol>",
-        patientGuidelines : "לא לקחת בסמוך לצריכת מוצרי חלב (חלב יגרום להתמוססות מהירה של התרופה ותופעות לוואי חמורות יותר).",
+        patientGuidelines : "<ol class=list><li>לא לקחת בסמוך לצריכת מוצרי חלב (חלב יגרום להתמוססות מהירה של התרופה ותופעות לוואי חמורות יותר).</li><li>אין ליטול יותר מחמישה ימים ברצף.</li><li></li></ol>",
         mechanismOfAction : "הגברת תנועתיות במעי הגס והאצת הריקון.",
     },
     "Sodium-Phoshate-PR": {
