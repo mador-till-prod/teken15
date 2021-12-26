@@ -12,8 +12,8 @@ let objMedInfo = {
         commercialName : "Allergyx.<br>Aerius.",
         indication : "<ol class=list><li>נזלת אלרגית.</li><li>אורטיקריה (פריחה בצורת משטחים אדומים בולטים בצורות שונות, מלווה בגרד).</li></ol>",
         contraindication : "אלרגיה לתרופה.",
-        sideEffect : "<ol class=list><li>ישנוניות במינונים גבוהים.</li><li>סחרחורת.</li>",
-        patientGuidelines : "שימוש מעבר למינון המקובל עלול לגרום לישנוניות.",
+        sideEffect : "<ol class=list><li>ישנוניות במינונים גבוהים.</li><li>סחרחורת.</li></ol>",
+        patientGuidelines : "<ol class=list><li>שימוש מעבר למינון המקובל עלול לגרום לישנוניות.</li><li>יש לידע את הרופא אם ישנה היסטוריה משפחתית של פרכוסים.</li></ol>",
     },
     "Azelastine": {
         medType: "antiallergic",
@@ -24,7 +24,7 @@ let objMedInfo = {
         indication : "דלקת עיניים אלרגית.",
         contraindication : "אלרגיה לתרופה.",
         sideEffect : "<ol class=list><li>ישנוניות (בשימוש דרך האף)</li><li>התקף אסטמה (בשימוש דרך האף, נדיר).</li></ol>",
-        patientGuidelines : "<ol class=list><li>לפני שימוש בטיפות עיניים יש להקפיד על שטיפת ידיים.</li><li>בזמן שימוש בטיפות עיניים אין לגעת בפיית הבקבוקון בעין.</li><li>אין לבצע פעולות הדורשות ערנות לאחר שימוש בתרופה דרך האף.</li></ol>",
+        patientGuidelines : "<ol class=list><li>לפני שימוש בטיפות עיניים יש להקפיד על שטיפת ידיים.</li><li>בזמן שימוש בטיפות עיניים אין לגעת בפיית הבקבוקון בעין.</li><li>אין לבצע פעולות הדורשות ערנות לאחר שימוש בתרופה דרך האף.</li><li>יש לידע את הרופא אם ישנה היסטוריה משפחתית של פרכוסים.</li></ol>",
     },
     // סטרואידים – מדכאי תגובה חיסונית 
     "Predisone": {
@@ -218,6 +218,17 @@ let objMedInfo = {
         sideEffect : "<ol class=list><li>כאבי בטן, שלשולים.</li><li>פנקראטיטיס – דלקת בלבלב.</li><li>פגיעה כלייתית.</li><li>פגיעה כבדית שמובילה לצהבת.</li><li>דיכוי יצירת תאי דם במח עצם.</li><li>תגובות עוריות כמו פריחה.</li></ol>",
         patientGuidelines : "<ol class=list><li>לא להפסיק את הטיפול באמצע, אלא לסיים את כולו, גם אם מרגישים טוב יותר.</li><li>שתיית מים מרובה.</li><li>לצמצם חשיפה לשמש ולהשתמש בקרם הגנה (התרופה עלולה להגביר את הרגישות של העור לשמש).</li><li>לפנות לבדיקה רפואית במידה ויש פריחה. היא עלולה להעיד על התחלה של אנאפילקסיס או תגובה מסוכנת אחרת לטיפול.</li></ol>",
         mechanismOfAction : "עיכוב ייצור חומצה פולית בחיידקים (חינוי להישרדותם) ובכך גורם להריגתם.",
+    },
+    "Nifurantin": {
+        medType: "antibiotics",
+        type : "withoutMechanism",
+        pic : "antibiotics/Nifurantin", 
+        genericName : "Nifurantin.",
+        commercialName : "MACRODANTINE.<br>FURDANTIN ORAL.",
+        indication : "דלקת בדרכי השתן.",
+        contraindication : "<ol class=list><li>חוסר באנזים g6pd.</li><li>אי ספיקת כליות.</li></ol>",
+        sideEffect : "אין.",
+        patientGuidelines : "<ol class=list><li>יש להרבות בשתייה.</li><li>יש להקפיד על סיום כל הטיפול, בדגש על משטרי טיפול (מרווחים ומינונים).</li><li>אין לשלב על אלכוהול.</li><li>במידה והמטופלת נוטלת גלולות – יש להנחות על שימוש באמצעי מניעה נוסף.</li></ol>",
     },
     "Mupirocin": {
         medType: "antibiotics",
