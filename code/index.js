@@ -488,7 +488,7 @@ let objMedInfo = {
         medType: "digestion",
         type : "withMechanism",
         pic : "digestion/rennie", 
-        genericName : "Calcium + Magnesium Carbonate.",
+        genericName : "<ol class=list><li>Calcium + Magnesium Carbonate.</li><li>תקן 15 – תרופה בסמכות חובש.</li></ol>",
         commercialName : "rennie.",
         indication : "<ol class=list><li>צרבת.</li><li>מצבים אחרים של חומציות יתר בקיבה .</li><li>הפרעות מסויימות במאזן נוזלים.</li></ol>",
         contraindication : "<ol class=list><li>אלרגיה לתרופה.</li><li>אי ספיקת כליות.</li></ol>",
