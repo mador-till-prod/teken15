@@ -439,7 +439,7 @@ let objMedInfo = {
     "Ferrous-Calcium-Citrate": {
         medType: "chronicDiseases",
         type : "withoutMechanism",
-        pic : "chronic-diseases/ferrocal", 
+        pic : "chronic-diseases/Ferocal", 
         genericName : "Ferrous Calcium Citrate.",
         commercialName : "ferrocal.",
         indication : "טיפול ומניעה של אנמיה ממחסור בברזל.",
