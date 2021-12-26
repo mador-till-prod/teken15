@@ -657,7 +657,7 @@ let objMedInfo = {
         medType: "painkillers",
         type : "withMechanism",
         pic : "painkillers/strepsils", 
-        genericName : "Benzocaine + Thyrotrycine.",
+        genericName : "<ol class=list><li>Benzocaine + Thyrotrycine.</li><li>תקן 15 – תרופה בסמכות חובש.</li></ol>",
         commercialName : "Lemosin.<br>Strepsils.",
         indication : "כאבי גרון/דלקת גרון.",
         contraindication : "אלרגיה לתרופה.",
