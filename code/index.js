@@ -295,7 +295,7 @@ let objMedInfo = {
     "Clotrimazole-CRM": {
         medType: "antibiotics",
         type : "withMechanism",
-        pic : "antibiotics/clotrimaderm", 
+        pic : "antibiotics/clotrimazole", 
         genericName : " Clotrimazole (CRM).",
         commercialName : "Clotrimaderm, Pitrion (CRM).",
         indication : "זיהום פטרייתי עורי.",
@@ -374,6 +374,17 @@ let objMedInfo = {
         sideEffect : "בחילות וכאבי בטן.",
         patientGuidelines : "<ol class=list><li>התרופה לא נועדה לשימוש ממושך.</li><li>המשך/הופעה של חום ושיעול לחתי דורש בדיקת רופא על מנת לשלול דלקת ריאות.</li><li>יש להרבות בשתיית מים לצורך הורדת צמיגות הליחה.</li></ol>",
         mechanismOfAction : "מדלל הפרשות בדרכי הנשימה (ככה יותר קל להוציא ליחה באמצעות שיעול).",
+    },
+    "Codeine": {
+        medType: "breathing",
+        type : "withoutMechanism",
+        pic : "breathing/rekod", 
+        genericName : "Codeine.",
+        commercialName : "rekod \ codical.",
+        indication : "שיעול.",
+        contraindication : "<ol class=list><li>אין לשלב עם אלכוהול.</li><li>לא לנשים בהריון או מניקות.</li></ol>",
+        sideEffect : "אין.",
+        patientGuidelines : "<ol class=list><li>לא ליטול לפני פעילות הדורשת עירנות.</li><li>עלול לגרום לעייפות ועצירות.</li></ol>",
     },
     // chronic-diseases-----------------------------------------------------------------------------------------------------------------------
     // יתר לחץ דם 
