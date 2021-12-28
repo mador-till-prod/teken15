@@ -563,7 +563,7 @@ let objMedInfo = {
         medType: "digestion",
         type : "withMechanism",
         pic : "digestion/stopit", 
-        genericName : "Papaverine.",
+        genericName : "Papaverine Hydrochloride.",
         commercialName : "Papaverine.",
         indication : "כאבים הנובעים מעוויתיות בדרכי העיכול, שתן ומרה.",
         contraindication : "<ol class=list><li>אלרגיה לתרופה.</li><li>הפרעות בקצב לב / רקע של אוטם בלב .</li><li>לחץ תוך גולגלתי מוגבר.</li></ol>",
